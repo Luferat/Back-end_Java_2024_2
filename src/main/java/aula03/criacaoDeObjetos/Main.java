@@ -1,6 +1,6 @@
 package aula03.criacaoDeObjetos;
 
-public class Main {
+public class Main  {
     public static void main(String[] args) {
 
         // Criando um objeto chamado "fusca" do tipo `Car`
